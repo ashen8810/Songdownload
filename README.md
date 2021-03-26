@@ -16,7 +16,7 @@ songsdownload is written in Python that downloads sinhala songs and lyrics files
 ```python 
 from songsdownload import Songsdetails
 
-songs = Songsdetails("query","location")
+songs = Songsdetails("query","location") #default location is cwd
 
 songs.downloadsongs("Your Query")
 songs.downloadlyrics("Your Query")

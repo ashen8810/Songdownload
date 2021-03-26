@@ -23,7 +23,7 @@ songs.downloadlyrics("Your Query")
 
 ```
 <br />
-
+![](image.png)
 
 ``` python
 from songsdownload import Songsdetails

@@ -13,20 +13,26 @@ songsdownload is written in Python that downloads sinhala songs and lyrics files
 ```pip install songsdownload```
 
 ## How to use it?
-```python from songsdownload import Songsdetails
+```python 
+from songsdownload import Songsdetails
 
 songs = Songsdetails("query","location")
 
 songs.downloadsongs("Your Query")
-songs.downloadlyrics("Your Query")```
+songs.downloadlyrics("Your Query")
+
+```
+<br />
 
 
-
-```from songsdownload import Songsdetails
+``` python
+from songsdownload import Songsdetails
 
 listofsongs = ["song1","song2"]
-downloadsongarray(listofsongs)```
+downloadsongarray(listofsongs)
 
+```
+<br />
 
 ![Result](https://raw.githubusercontent.com/ashen8810/Flash/6c2d64da4613342ed9122317e97142938230c7da/image.png?token=ARQPXPO5Z6VYOCMWRFWUEHTALXW54)
 

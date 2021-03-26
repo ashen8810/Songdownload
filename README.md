@@ -23,7 +23,7 @@ songs.downloadlyrics("Your Query")
 
 ```
 <br />
-![](image.png)
+
 
 ``` python
 from songsdownload import Songsdetails
@@ -34,9 +34,7 @@ downloadsongarray(listofsongs)
 ```
 <br />
 
-![Result](https://raw.githubusercontent.com/ashen8810/Flash/6c2d64da4613342ed9122317e97142938230c7da/image.png?token=ARQPXPO5Z6VYOCMWRFWUEHTALXW54)
-
-
+![](/image.png)
 ## License
 
 © 2021 Ashen Ranaweera

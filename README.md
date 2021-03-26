@@ -17,6 +17,8 @@ songsdownload is a command-line application written in Python that downloads sin
 <br />
 ```lyrics("Your Query")```
 
+![Result](https://raw.githubusercontent.com/ashen8810/Flash/6c2d64da4613342ed9122317e97142938230c7da/image.png?token=ARQPXPO5Z6VYOCMWRFWUEHTALXW54)
+
 ## License
 
 © 2021 Ashen Ranaweera

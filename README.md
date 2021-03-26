@@ -13,13 +13,14 @@ songsdownload is written in Python that downloads sinhala songs and lyrics files
 ```pip install songsdownload```
 
 ## How to use it?
-```from songsdownload import Songsdetails
+```python from songsdownload import Songsdetails
 
 songs = Songsdetails("query","location")
 
 songs.downloadsongs("Your Query")
 songs.downloadlyrics("Your Query")```
-<br />
+
+
 
 ```from songsdownload import Songsdetails
 
